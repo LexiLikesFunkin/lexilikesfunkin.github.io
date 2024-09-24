@@ -3,11 +3,3 @@ gf
 dad
 spooky
 monster
-pico
-bf-car
-gf-car
-mom-car
-bf-christmas
-gf-christmas
-parents-christmas
-monster-christmas
